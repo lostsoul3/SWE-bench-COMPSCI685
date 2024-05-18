@@ -17,9 +17,13 @@ Inference:
 
 Batch Inferencing can be performed on Gemma 2B, 7B. Model loading codes for both the fine-tuned models and the baseline models are provided. To use the fine-tuned models, access and copy the checkpoint folders referenced above. Before running the notebook, comment out the models that are not being used and set valid output paths to continue with inference. 
 
-Outputs:
 
-Output csv files for both fine-tuned Gemma as well as SWE-Llama are present in `Outputs` directory.
+Folder Structure:
+
+1. Output csv files for both fine-tuned Gemma as well as SWE-Llama are present in `Outputs` directory.
+2. All notebooks are present in `notebooks` folder
+3. `annotated_data` directory contains human annotated data for SQL query hardness.
+4. `error_analysis` directory contains all error analysis scripts to be ran over output csv files from `outputs` folder.
 
 
  
