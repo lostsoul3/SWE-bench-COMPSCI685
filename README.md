@@ -40,10 +40,11 @@ The code for the evaluation process can be found here - [Evaluation Scripts]([ht
 
 # Directory  Structure:
 
-1. Fine-Tuning - Code related to Gemma 2B and 7B fine-tuning
-2. Inference - Code related to Gemma 2B, 7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama Inference for generating the outputs
-3. Evaluation - Code related to Evluation Metrics of Partial, Exact Matching, ROUGE Score for Gemma  7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama 
-4. Output - Generated Queries after inference
+1. Data - Manually Annotated data categorized for Question Complexity
+2. Fine-Tuning - Code related to Gemma 2B and 7B fine-tuning
+3. Inference - Code related to Gemma 2B, 7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama Inference for generating the outputs
+4. Evaluation - Code related to Evluation Metrics of Partial, Exact Matching, ROUGE Score for Gemma  7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama 
+5. Output - Generated Queries after inference
 
 
  
