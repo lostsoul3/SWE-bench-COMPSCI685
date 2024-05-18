@@ -1,4 +1,4 @@
-# SWE-bench-COMPSCI685
+# Model Eval- COMPSCI685
 Repo for COMPSCI685 final project
 Fine-tuning:
 
