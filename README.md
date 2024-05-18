@@ -41,12 +41,12 @@ Output.csv files for both fine-tuned Gemma as well as SWE-Llama are present in `
 
 
 
-Folder Structure:
+# Directory  Structure:
 
-1. Output csv files for both fine-tuned Gemma as well as SWE-Llama are present in `Outputs` directory.
-2. All notebooks are present in `notebooks` folder
-3. `annotated_data` directory contains human annotated data for SQL query hardness.
-4. `error_analysis` directory contains all error analysis scripts to be ran over output csv files from `outputs` folder.
+1. Fine-Tuning - Code related to Gemma 2B and 7B fine-tuning
+2. Inference - Code related to Gemma 2B, 7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama Inference for generating the outputs
+3. Evaluation - Code related to Evluation Metrics of Partial, Exact Matching, ROUGE Score for Gemma  7B , Gemma Fine-tuned 7B , Gemma Fine-tuned 2B , Swe-LLama 
+4. Output - Generated Queries after inference
 
 
  
