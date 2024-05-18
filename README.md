@@ -16,5 +16,11 @@ To run the fine-tuning pipeline for Gemma 2B, follow along with the Spider_Gemma
 Inference:
 
 Batch Inferencing can be performed on Gemma 2B, 7B. Model loading codes for both the fine-tuned models and the baseline models are provided. To use the fine-tuned models, access and copy the checkpoint folders referenced above. Before running the notebook, comment out the models that are not being used and set valid output paths to continue with inference. 
+
+Outputs:
+
+Output csv files for both fine-tuned Gemma as well as SWE-Llama are present in `Outputs` directory.
+
+
  
   
